@@ -1,0 +1,6 @@
+[submodule "HandoffBackend"]
+	path = HandoffBackend
+	url = git@github.com:sethdp/HandoffBackend.git
+[submodule "Handoff"]
+	path = Handoff
+	url = git@github.com:kennanmell/Handoff.git
